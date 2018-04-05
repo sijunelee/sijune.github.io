@@ -167,7 +167,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/header-bg.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -453,9 +453,9 @@ header.masthead .intro-text .intro-heading {
 }
 
 .timeline > li .timeline-image h4 {
-  font-size: 10px;
+  font-size: 40px;
   line-height: 14px;
-  margin-top: 12px;
+  margin-top:25px
 }
 
 .timeline > li.timeline-inverted > .timeline-panel {
